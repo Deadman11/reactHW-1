@@ -1,7 +1,5 @@
 import item from './Item'
 
-import './App.css'
-
 import ShopItemClass from "./ShopItemClass"
 import ShopItemFunc from './ShopItemFunc'
 
